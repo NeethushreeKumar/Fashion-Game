@@ -1,0 +1,40 @@
+Model|Bella Hadid
+Model|Kendall Jenner
+Model|Cara Delevingne
+Model|Gigi Hadid
+Model|Barbara Palin
+Style|Summer Sundowner
+Style|Concerts
+Style|Night Out
+Style|The Oscars
+Style|Formal
+Dress|Maxi Dress|100
+Dress|Mini Dress|80
+Dress|Cocktail Dress|90
+Dress|Evening Gown|110
+Dress|Casual Dress|70
+Top|Blouse|50
+Top|T-Shirt|30
+Top|Tank Top|40
+Top|Crop Top|60
+Top|Bodysuit|50
+Bottom|Jeans|60
+Bottom|Skirt|40
+Bottom|Shorts|50
+Bottom|Leggings|30
+Bottom|Pants|70
+Coat|Puffer Jacket|80
+Coat|Leather Jacket|90
+Coat|Trench Coat|100
+Coat|Pea Coat|70
+Coat|Parka|110
+Footwear|Sneakers|50
+Footwear|Heels|70
+Footwear|Boots|60
+Footwear|Sandals|40
+Footwear|Flats|30
+Accessory|Necklace|30
+Accessory|Bracelet|20
+Accessory|Earrings|40
+Accessory|Handbag|50
+Accessory|Sunglasses|30

@@ -1,0 +1,12 @@
+Bella Hadid|Summer Sundowner|Dress|Mini Dress|||Necklace|Gloves
+Kendall Jenner|Concerts|Dress|Ball Gown|||Bracelets|Earrings
+Cara Delevingne|Night Out|Dress|Bodycon|||Earrings|Hats
+Gigi Hadid|The Oscars|Dress|Corset Dress|||Necklace|Scarf
+Barbara Palin|Formal|Dress|Cocktail Dress|||Bracelets|Gloves
+Bella Hadid|Elegant Affairs|Dress|Off Shoulder Dress|||Necklace|Bracelets
+Kendall Jenner|Summer Sundowner|Top and Bottom|||Coat|Bracelets|Gloves
+Cara Delevingne|Concerts|Top and Bottom|||Coat|Earrings|Scarf
+Gigi Hadid|Night Out|Top and Bottom|||Coat|Hats|Gloves
+Barbara Palin|The Oscars|Top and Bottom|||Coat|Necklace|Bracelets
+Bella Hadid|Formal|Top and Bottom|||Coat|Earrings|Scarf
+Kendall Jenner|Elegant Affairs|Top and Bottom|||Coat|Hats|Gloves
